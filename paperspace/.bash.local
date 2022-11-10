@@ -1,0 +1,4 @@
+#!usr/bin/env bash
+  
+export PATH=~/mambaforge/bin:$PATH
+export PATH=~/.local/bin:$PATH
